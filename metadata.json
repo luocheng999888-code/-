@@ -1,0 +1,5 @@
+{
+  "name": "ZenWriter",
+  "description": "A minimalist, distraction-free writing application with a warm, pale yellow theme. Features local file import, card-based article management, and an immersive editor.",
+  "requestFramePermissions": []
+}
